@@ -1,0 +1,6 @@
+2023-06-23 16:08:17,510 - io.py[line:40] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2023-06-23 16:08:17,543 - voting.py[line:245] - INFO: Epoch: 000 | Validation Acc: 96.140 % | Historical Best: 96.140 %
+2023-06-23 16:09:41,275 - io.py[line:40] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2023-06-23 16:09:41,289 - voting.py[line:245] - INFO: Epoch: 001 | Validation Acc: 97.450 % | Historical Best: 97.450 %
+2023-06-23 16:11:05,261 - io.py[line:40] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2023-06-23 16:11:05,275 - voting.py[line:245] - INFO: Epoch: 002 | Validation Acc: 97.920 % | Historical Best: 97.920 %

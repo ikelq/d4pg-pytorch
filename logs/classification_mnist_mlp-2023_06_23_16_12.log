@@ -1,0 +1,61 @@
+2023-06-23 16:14:15,336 - io.py[line:40] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2023-06-23 16:14:15,365 - voting.py[line:245] - INFO: Epoch: 000 | Validation Acc: 96.250 % | Historical Best: 96.250 %
+2023-06-23 16:15:42,973 - io.py[line:40] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2023-06-23 16:15:42,989 - voting.py[line:245] - INFO: Epoch: 001 | Validation Acc: 97.510 % | Historical Best: 97.510 %
+2023-06-23 16:17:10,642 - io.py[line:40] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2023-06-23 16:17:10,664 - voting.py[line:245] - INFO: Epoch: 002 | Validation Acc: 97.900 % | Historical Best: 97.900 %
+2023-06-23 16:18:37,112 - io.py[line:40] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2023-06-23 16:18:37,136 - voting.py[line:245] - INFO: Epoch: 003 | Validation Acc: 98.180 % | Historical Best: 98.180 %
+2023-06-23 16:20:03,829 - io.py[line:40] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2023-06-23 16:20:03,847 - voting.py[line:245] - INFO: Epoch: 004 | Validation Acc: 98.220 % | Historical Best: 98.220 %
+2023-06-23 16:21:30,926 - io.py[line:40] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2023-06-23 16:21:30,950 - voting.py[line:245] - INFO: Epoch: 005 | Validation Acc: 98.310 % | Historical Best: 98.310 %
+2023-06-23 16:22:55,195 - io.py[line:40] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2023-06-23 16:22:55,220 - voting.py[line:245] - INFO: Epoch: 006 | Validation Acc: 98.420 % | Historical Best: 98.420 %
+2023-06-23 16:24:19,648 - io.py[line:40] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2023-06-23 16:24:19,663 - voting.py[line:245] - INFO: Epoch: 007 | Validation Acc: 98.480 % | Historical Best: 98.480 %
+2023-06-23 16:25:44,370 - voting.py[line:245] - INFO: Epoch: 008 | Validation Acc: 98.430 % | Historical Best: 98.480 %
+2023-06-23 16:27:08,766 - voting.py[line:245] - INFO: Epoch: 009 | Validation Acc: 98.440 % | Historical Best: 98.480 %
+2023-06-23 16:28:34,089 - io.py[line:40] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2023-06-23 16:28:34,112 - voting.py[line:245] - INFO: Epoch: 010 | Validation Acc: 98.570 % | Historical Best: 98.570 %
+2023-06-23 16:29:58,933 - voting.py[line:245] - INFO: Epoch: 011 | Validation Acc: 98.530 % | Historical Best: 98.570 %
+2023-06-23 16:31:23,519 - voting.py[line:245] - INFO: Epoch: 012 | Validation Acc: 98.490 % | Historical Best: 98.570 %
+2023-06-23 16:32:48,732 - voting.py[line:245] - INFO: Epoch: 013 | Validation Acc: 98.530 % | Historical Best: 98.570 %
+2023-06-23 16:34:14,983 - voting.py[line:245] - INFO: Epoch: 014 | Validation Acc: 98.570 % | Historical Best: 98.570 %
+2023-06-23 16:35:39,468 - voting.py[line:245] - INFO: Epoch: 015 | Validation Acc: 98.570 % | Historical Best: 98.570 %
+2023-06-23 16:37:04,827 - voting.py[line:245] - INFO: Epoch: 016 | Validation Acc: 98.460 % | Historical Best: 98.570 %
+2023-06-23 16:38:30,634 - voting.py[line:245] - INFO: Epoch: 017 | Validation Acc: 98.500 % | Historical Best: 98.570 %
+2023-06-23 16:39:56,046 - voting.py[line:245] - INFO: Epoch: 018 | Validation Acc: 98.510 % | Historical Best: 98.570 %
+.500 % | Historical Best: 97.970 %
+2023-06-23 16:16:45,878 - io.py[line:40] - INFO: Saving the model to `./VotingClassifier_MLP_1_ckpt.pth`
+2023-06-23 16:16:45,880 - voting.py[line:245] - INFO: Epoch: 022 | Validation Acc: 98.000 % | Historical Best: 98.000 %
+2023-06-23 16:16:55,892 - voting.py[line:245] - INFO: Epoch: 023 | Validation Acc: 97.980 % | Historical Best: 98.000 %
+2023-06-23 16:17:05,859 - voting.py[line:245] - INFO: Epoch: 024 | Validation Acc: 97.950 % | Historical Best: 98.000 %
+2023-06-23 16:17:15,717 - voting.py[line:245] - INFO: Epoch: 025 | Validation Acc: 97.780 % | Historical Best: 98.000 %
+2023-06-23 16:17:25,607 - voting.py[line:245] - INFO: Epoch: 026 | Validation Acc: 98.000 % | Historical Best: 98.000 %
+2023-06-23 16:17:35,365 - voting.py[line:245] - INFO: Epoch: 027 | Validation Acc: 97.960 % | Historical Best: 98.000 %
+2023-06-23 16:17:45,369 - voting.py[line:245] - INFO: Epoch: 028 | Validation Acc: 97.650 % | Historical Best: 98.000 %
+2023-06-23 16:17:55,255 - voting.py[line:245] - INFO: Epoch: 029 | Validation Acc: 97.590 % | Historical Best: 98.000 %
+2023-06-23 16:18:04,831 - voting.py[line:245] - INFO: Epoch: 030 | Validation Acc: 97.530 % | Historical Best: 98.000 %
+2023-06-23 16:18:14,677 - voting.py[line:245] - INFO: Epoch: 031 | Validation Acc: 97.810 % | Historical Best: 98.000 %
+2023-06-23 16:18:24,458 - voting.py[line:245] - INFO: Epoch: 032 | Validation Acc: 97.990 % | Historical Best: 98.000 %
+2023-06-23 16:18:34,102 - voting.py[line:245] - INFO: Epoch: 033 | Validation Acc: 97.820 % | Historical Best: 98.000 %
+2023-06-23 16:18:43,803 - io.py[line:40] - INFO: Saving the model to `./VotingClassifier_MLP_1_ckpt.pth`
+2023-06-23 16:18:43,805 - voting.py[line:245] - INFO: Epoch: 034 | Validation Acc: 98.030 % | Historical Best: 98.030 %
+2023-06-23 16:18:53,692 - voting.py[line:245] - INFO: Epoch: 035 | Validation Acc: 97.870 % | Historical Best: 98.030 %
+2023-06-23 16:19:03,886 - voting.py[line:245] - INFO: Epoch: 036 | Validation Acc: 97.640 % | Historical Best: 98.030 %
+2023-06-23 16:19:13,811 - voting.py[line:245] - INFO: Epoch: 037 | Validation Acc: 97.970 % | Historical Best: 98.030 %
+2023-06-23 16:19:23,534 - voting.py[line:245] - INFO: Epoch: 038 | Validation Acc: 98.010 % | Historical Best: 98.030 %
+2023-06-23 16:19:33,389 - io.py[line:40] - INFO: Saving the model to `./VotingClassifier_MLP_1_ckpt.pth`
+2023-06-23 16:19:33,391 - voting.py[line:245] - INFO: Epoch: 039 | Validation Acc: 98.090 % | Historical Best: 98.090 %
+2023-06-23 16:19:43,148 - voting.py[line:245] - INFO: Epoch: 040 | Validation Acc: 97.990 % | Historical Best: 98.090 %
+2023-06-23 16:19:52,949 - voting.py[line:245] - INFO: Epoch: 041 | Validation Acc: 97.900 % | Historical Best: 98.090 %
+2023-06-23 16:20:02,868 - voting.py[line:245] - INFO: Epoch: 042 | Validation Acc: 97.700 % | Historical Best: 98.090 %
+2023-06-23 16:20:13,092 - voting.py[line:245] - INFO: Epoch: 043 | Validation Acc: 97.950 % | Historical Best: 98.090 %
+2023-06-23 16:20:23,468 - voting.py[line:245] - INFO: Epoch: 044 | Validation Acc: 98.060 % | Historical Best: 98.090 %
+2023-06-23 16:20:33,519 - voting.py[line:245] - INFO: Epoch: 045 | Validation Acc: 97.890 % | Historical Best: 98.090 %
+2023-06-23 16:20:43,378 - voting.py[line:245] - INFO: Epoch: 046 | Validation Acc: 97.890 % | Historical Best: 98.090 %
+2023-06-23 16:20:53,319 - voting.py[line:245] - INFO: Epoch: 047 | Validation Acc: 97.900 % | Historical Best: 98.090 %
+2023-06-23 16:21:03,092 - io.py[line:40] - INFO: Saving the model to `./VotingClassifier_MLP_1_ckpt.pth`
+2023-06-23 16:21:03,095 - voting.py[line:245] - INFO: Epoch: 048 | Validation Acc: 98.240 % | Historical Best: 98.240 %
+2023-06-23 16:21:12,816 - voting.py[line:245] - INFO: Epoch: 049 | Validation Acc: 97.760 % | Historical Best: 98.240 %
